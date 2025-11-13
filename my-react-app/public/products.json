@@ -1,0 +1,12 @@
+[ 
+    { "id": 1, "name": "Muis", "price": "€9.95", "category": "Accessoires" },
+    { "id": 2, "name": "Toetsenbord", "price": "€19.95", "category": "Accessoires" },
+    { "id": 3, "name": "Monitor", "price": "€29.95", "category": "Accessoires" },
+    { "id": 4, "name": "Webcam", "price": "€39.95", "category": "Accessoires" },
+    { "id": 5, "name": "Muismat", "price": "€49.95", "category": "Accessoires" },
+    { "id": 6, "name": "Bureau Stoel", "price": "€59.95", "category": "Werkplek" },
+    { "id": 7, "name": "Bureau", "price": "€69.95", "category": "Werkplek" },
+    { "id": 8, "name": "Bureaulamp", "price": "€79.95", "category": "Werkplek" },
+    { "id": 9, "name": "Oortjes", "price": "€89.95", "category": "Audio" },
+    { "id": 10, "name": "Koptelefoon", "price": "€9.95", "category": "Audio" }
+]
